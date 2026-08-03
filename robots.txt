@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap:  https://karanmorehub.com/Age-Calculator-Pro/sitemap.xml
+Sitemap:  https://age-calculator-pro.karanmorehub.com/
